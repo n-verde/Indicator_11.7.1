@@ -11,3 +11,4 @@ This repository contains the code developed for mapping urban open spaces (UOS) 
 
 ## Further reading - Citation
 Verde N, Patias P, Mallinis G. A Cloud-Based Mapping Approach Using Deep Learning and Very-High Spatial Resolution Earth Observation Data to Facilitate the SDG 11.7.1 Indicator Computation. Remote Sensing. 2022; 14(4):1011. https://doi.org/10.3390/rs14041011 
+Verde N. *Calculation and mapping of sustainable development goal indicators, using open-source earth observation data and cloud computing services*. Dissertation. Aristotle University of Thessaloniki; 2023. http://dx.doi.org/10.12681/eadd/56272 
